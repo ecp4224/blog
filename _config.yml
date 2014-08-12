@@ -11,7 +11,7 @@ title:            Nothing To See
 tagline:          There's nothing here worth your time..
 url:              http://eddiep.me/blog
 paginate:         5
-baseurl:          /
+baseurl:          blog/
 author:
   name:           Eddie Penta
   url:            http://eddiep.me
