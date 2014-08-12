@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 hightlighter:     rouge
+github:           [Repository metadata]
 
 # Permalinks
 permalink:        pretty
@@ -19,4 +20,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/hypereddie/blog
