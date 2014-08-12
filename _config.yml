@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+hightlighter:     rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Nothing To See
+tagline:          There's nothing here worth your time..
+url:              http://eddiep.me/blog
+paginate:         5
+baseurl:          /
+author:
+  name:           Eddie Penta
+  url:            http://eddiep.me
+  email:          ecp4224@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole

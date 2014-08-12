@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+      <div class="masthead" style="background-color: #fff; box-shadow: 0px -2px 14px; padding-left: 2em;">
+        <h3 class="masthead-title">
+          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+		  <br>
+          <small>{{ site.tagline }}</small>
+        </h3>
+		<br>
+		<a href="http://eddiep.me" title="About">About Me</a> | <a href="https://github.com/hypereddie" title="Github">Github Profile</a>
+      </div>
+
+      {{ content }}
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>
