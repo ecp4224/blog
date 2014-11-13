@@ -100,7 +100,7 @@ enough dialog for the player to show who the bad guy is, who the good guy is, an
 This simple option would of made a lot of players happy during the first few minutes as they did not really care about
 the backstory nor did they care about reading the slow scrolling dialog.
 
-##Level objectives
+#Level Objectives
 While the level designs were very well done (thanks to our level designer), the objective in each level would sometimes
 be unclear. This is very clear in the first level, where you are on the roof.
 
